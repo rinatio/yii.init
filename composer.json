@@ -1,0 +1,8 @@
+{
+    "require": {
+        "yiisoft/yii": "dev-master"
+    },
+    "autoload": {
+        "files": ["vendor/yiisoft/yii/framework/yii.php"]
+    }
+}
